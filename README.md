@@ -1,4 +1,4 @@
-**                     Plagiarism Detection using Text Similarity**
+<b>                     Plagiarism Detection using Text Similarity</b>
 
 This is a utility to check if 2 documents are plagiarized or not based on their similarity.
 
