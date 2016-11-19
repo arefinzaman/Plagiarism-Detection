@@ -20,7 +20,7 @@ It takes 2 text documents as input.
 
 **Demonstration:**
 
- ![main_window](Plagiarism-Detection/images/main_window.png?raw=true "Main Window")
+ ![main_window](/images/main_window.png?raw=true "Main Window")
 
 Main window
 
