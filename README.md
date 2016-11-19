@@ -14,9 +14,9 @@ It takes 2 text documents as input.
 
 ## **Required Libraries &amp; tools**
 
-- Python 3
-- Jupyter notebook
-- Scikit-learn
+- Python 3
+- Jupyter notebook
+- Scikit-learn
 
 **Demonstration:**
 
@@ -50,7 +50,7 @@ A random document is selected from the categories. This will work as the source 
 
  ![similar_doc](/images/similar_doc.PNG?raw=true "Most Similar Document")
 
-The software has foundd out the most similar document to the source.
+The software has found out the most similar document to the source.
 
  ![eval_similarity](/images/eval_similarity.png?raw=true "")
 
