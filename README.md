@@ -1,4 +1,4 @@
-**               **  **Plagiarism Detection using Text Similarity**
+**                     Plagiarism Detection using Text Similarity**
 
 This is a utility to check if 2 documents are plagiarized or not based on their similarity.
 
@@ -48,7 +48,7 @@ Category Selection
 
 A random document is selected from the categories. This will work as the source document.
 
- ![similar_doc](/images/similar_doc.png?raw=true "Most Similar Document")
+ ![similar_doc](/images/similar_doc.PNG?raw=true "Most Similar Document")
 
 The software has foundd out the most similar document to the source.
 
