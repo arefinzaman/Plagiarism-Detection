@@ -62,5 +62,5 @@ Then the category of the most similar document will be displayed. If the categor
 
 Contributors:
 
-M.M. Arefin Zaman (https://github.com/murkho)
+M.M. Arefin Zaman (https://github.com/murkho)<br>
 Imran Sayeed (https://github.com/Imran51)
