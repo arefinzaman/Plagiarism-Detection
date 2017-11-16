@@ -59,3 +59,8 @@ A message box will be shown that contains the percentage of similarity between t
  ![eval_category](/images/eval_category.png?raw=true)
 
 Then the category of the most similar document will be displayed. If the category of the newly found document matches with the category of the source document then it proves that our algorithm works reasonably well.
+
+Contributors:
+
+M.M. Arefin Zaman (https://github.com/murkho)
+Imran Sayeed (https://github.com/Imran51)
